@@ -1,0 +1,40 @@
+name: Daily Elon News Scraper
+
+on:
+  schedule:
+    # 設定定時執行：UTC 時間 00:00 (就是馬來西亞/台灣時間 08:00 AM)
+    - cron: '0 0 * * *'
+  # 允許你手動按按鈕觸發測試 (方便除錯)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 下載你的程式碼 (Checkout repo)
+        uses: actions/checkout@v3
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 安裝套件 (Install dependencies)
+        run: |
+          pip install -r requirements.txt
+
+      - name: 執行爬蟲腳本
+        run: python daily_news_bot.py
+
+      - name: 將抓到的資料存回倉庫 (Commit and Push)
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add data/*.json
+          # 如果有變更才提交，沒變更就不做任何事 (避免報錯)
+          git commit -m "Auto-update: Daily News Data" || exit 0
+          git push
