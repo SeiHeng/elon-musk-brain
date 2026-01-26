@@ -45,15 +45,23 @@ KEYWORDS = [
 ]
 
 def fetch_google_news():
-    print(f"[{datetime.now()}] 開始執行新聞抓取...")
+    print(f"[{datetime.now()}] 開始執行新聞抓取 (強制 24 小時內)...")
     all_news = []
 
     for topic in KEYWORDS:
         encoded_topic = topic.replace(" ", "+")
-        rss_url = f"https://news.google.com/rss/search?q={encoded_topic}&hl=en-US&gl=US&ceid=US:en"
+        
+        # ⬇️ 修改重點在這裡：加上 when:1d
+        rss_url = f"https://news.google.com/rss/search?q={encoded_topic}+when:1d&hl=en-US&gl=US&ceid=US:en"
+        
         feed = feedparser.parse(rss_url)
         
-        for entry in feed.entries[:5]:
+        # 如果這主題完全沒新新聞，feed.entries 可能是空的
+        if not feed.entries:
+            print(f"⚠️ 主題 '{topic}' 在過去 24 小時內沒有新聞。")
+            continue
+
+        for entry in feed.entries[:3]: # 只抓前 3 則最新的
             news_item = {
                 "topic": topic,
                 "title": entry.title,
@@ -66,12 +74,9 @@ def fetch_google_news():
     if not os.path.exists('data'):
         os.makedirs('data')
 
-    # 存檔 (存到 data 資料夾內)
+    # 存檔
     filename = f"data/news_{datetime.now().strftime('%Y-%m-%d')}.json"
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(all_news, f, ensure_ascii=False, indent=4)
         
-    print(f"成功儲存: {filename}")
-
-if __name__ == "__main__":
-    fetch_google_news()
+    print(f"成功儲存: {filename} (包含 {len(all_news)} 則新聞)")
