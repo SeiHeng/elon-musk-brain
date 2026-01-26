@@ -3,7 +3,7 @@ name: Daily Elon News Scraper
 on:
   schedule:
     # 設定定時執行：UTC 時間 00:00 (就是馬來西亞/台灣時間 08:00 AM)
-    - cron: '*/30 * * *'
+   - cron: '*/30 * * * *'
   # 允許你手動按按鈕觸發測試 (方便除錯)
   workflow_dispatch:
 
