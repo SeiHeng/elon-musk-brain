@@ -1,0 +1,463 @@
+{
+    "last_updated": "2026-07-12 06:30:37",
+    "timezone": "UTC",
+    "total_count": 76,
+    "news_list": [
+        {
+            "topic": "NVIDIA stock NVDA",
+            "title": "META_TITLE_QUOTE - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpVTJIYnhWcW1kNFFKTHNoajhPeE9zSW9lTElhZkZvcEo3MExtQnpIZjBRek95cWJ0XzRKMzBtMHh0Ty1SYVRESUxfRTJ4Zw?oc=5",
+            "published": "Sun, 12 Jul 2026 04:16:53 GMT"
+        },
+        {
+            "topic": "NVIDIA stock NVDA",
+            "title": "NVIDIA CORPORATION (NVDA) - MSN",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PVmQ3Zm1aVlVDTklWNlE0MklJUWc5eVFzNFd6R3M4SGdrYjZFZ2RSbHNtQU1oeTdSSnZSTmNzY05CeXpMM1BYcVgydVBQS2d3amFQcVFQaGVHLVY1ZDdpN0pLTTZEWnY5bWpqcy1Da2Nydm50NVE0?oc=5",
+            "published": "Sat, 11 Jul 2026 19:39:05 GMT"
+        },
+        {
+            "topic": "NVIDIA stock NVDA",
+            "title": "NVIDIA (NVDA) Market Trends: Stock Valuation Cooling, Growth Pot - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzQyM296ckRCX211NzhNS2g4VFVRYTZPalY1TkNFVHZHbUJDVVg2VTdudXh0UkVKY0IzSW5TdmNOb29ocW5IVzA2LWxMZzNwd2VZM3VKU0JGT3dONXNYMkhnWXpRVE55ZXk4d3NsaUpjRFg4cENVU2lPMTJGOEVVOXV4RmV4YzlTd0VES0ZsN29LR2ZoeEdSRGtuam16bzhKUmpCNVFjMWRMY1dIQVN5MDlPQQ?oc=5",
+            "published": "Sun, 12 Jul 2026 02:02:35 GMT"
+        },
+        {
+            "topic": "Microsoft stock MSFT",
+            "title": "Microsoft Stock Is Falling but AI Spending Still Points to Long Term Upside - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEpuZ0p6UnRvTkNDanRxM3A2VjNYMm9QOVpWa0ozdWFEM1BFYzc2YlhxVFRqYzY3WGh2cmh1Y3ZwbkROTWVBY1JTalBlRzU3d0hJWllUanBiVjRpb3JJejJXaVRwOHZxdHZHZ2puRTVQSlhmVUxqMmpCNjJNQ3pVNWdWbUxwUE9JekxsZFN3YjlienRTVTA4Y1loMHdQd2hIQmxjN1l6N3pYdzQwMkxjTWlBV3c4cnpQcFpCdkZDQ1NQQURvR1NR0gHMAUFVX3lxTE9nRVQ4UkFnWnBqTDBMRlZKT0lQRnprTHBIMFVnWlJhQ2ZYd2Y0QmVsU0RWcFJ0T2NNU09yQVdJeGxIN3pHQU0xSDNTX0YxdEJVTE1tZVRUVEtwdWdqUENCamJ6OXBMOVJNWVhFaHJQQWIxbm9lNFJpWl9scVhLc3NhaWF6aFZYUnZNUHZsZnhYeXJVODJ2X0tGN25neDIyVnh5UFZ0TlNzRXlPSjhtUXRpaGlfcXRtdU56cGJQSEF0T2o2VVBmYzNCOV9HSQ?oc=5",
+            "published": "Sun, 12 Jul 2026 04:17:19 GMT"
+        },
+        {
+            "topic": "Microsoft stock MSFT",
+            "title": "MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeTROX09JMmNjWjFydFdOODRWZG1NNnEzVWxvdE1FTnFWeU9QUE1VWGZremhsaUNEVXpJWGpSeXMxWm9sVzRGbVBCYTlEREVvV2NFRGhwaW95Q3psZnJmRUhuVThJS19EejVoYzdEaHhFb0NlR181bzN3TVpZSWRJUWZLR0xZeFhMUEgxMElnczVTQnU4bklwVTZyZFl1UXZheXh1Q3pZc25iZnBZUmg5eFhVdGNoSGZUWnphYXY5OE1XWXhBTXQ3TTBlWmdlUUdVMDlYSUZXVFp3T0pYSFd5dlFaNGZIOU9NTkx0aWFCOGNMUXZkM25JRUx1cUxFQUFIaDI4bQ?oc=5",
+            "published": "Sat, 11 Jul 2026 16:29:13 GMT"
+        },
+        {
+            "topic": "Microsoft stock MSFT",
+            "title": "Microsoft (MSFT) Faces A 25% Emissions Jump As AI Data Centers Test ESG Goals - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEw1ZFptS2IzNWgxYzY1VVcwOF96R0o4a2dDaTNJS252akxrNFJnX0ZKZ2pvOTlPZGQyTmdNeTRZa1FPYW9ZMzBzRjN1UGl5dGR1YktiSTZFRWNvUXZNdS1rVUxRbEYyblpXTjJlc2JmejctWFEyb3ozeGVXUnViMTR0OUVGMkstUDUzenZabkRiVm5RUzgtaFpDbkxaQQ?oc=5",
+            "published": "Sun, 12 Jul 2026 01:08:00 GMT"
+        },
+        {
+            "topic": "Google Alphabet stock GOOGL",
+            "title": "GOOGL Stock: Should You Buy the Best-Performing Magnificent Seven Stock Right Now? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTmVpTE0zd1RjSFd3Q0tQRzFTdEh1dG9vdWNsYVZfb0pJTlYtZzV5bFNDckNXRWFMSzFyZ1hUVTVvVERNYnFSZnZVSHdjNXFTTk9MTElKVWJ3M2dwWnZXTFVtYVhXNktFcmZPQlRacXpsMnVseHJTcnNTM2d5c2FQdWZGOHd3MjZQS0VEZlBwSmFmaHZ4RTVLdzRtejZrSGtHTDRMVG9lV190UldWb0tmbF9reXdySWVPNnFpOHg0WVJPSjltMEltNHhuUFh2MkRSTGY4UDJlWk96eWhpTThmX3EwQ2RRQQ?oc=5",
+            "published": "Sat, 11 Jul 2026 20:36:32 GMT"
+        },
+        {
+            "topic": "Google Alphabet stock GOOGL",
+            "title": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now? - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3QzdHhVd2ZRZlNxLXZ0TVlIeDFjc1RoOVhKdkN4WlpZZnFwQ3BTc1hpalNrdFdXeXNUTlBxaEtqb1ptaGRnWUFIQVZueHZVUUtnXzVOM1RiSnNISUpOb0R3amliTVdtaW9wdUd6NGNQOEZhOTlSY1dUam9UempnV2lmR1VPa1Bsc3V4enZIaFhVVHFSbUdGcXlzWXlkNjA3dy15UG50eGdoQTI4OVc3dzltUk1sd3BtOExybQ?oc=5",
+            "published": "Sun, 12 Jul 2026 00:21:22 GMT"
+        },
+        {
+            "topic": "Google Alphabet stock GOOGL",
+            "title": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzU3aUpxRlRYSmVacjE1djdOR213cGljSFBUWG01ZlhPUXRsNzBnU1Y3QlUycGdfeHdIcXdwUmtpRTdFODFncjFONlc0eFNlN21Lb0NjbF8wN3FjYXpkRDF0Yk8wX0RIdHpUd3NTTjh5ak1UZi16R2lCZnd2eEFQbUM4VWhFOVRDMVEzRFpBa0ZRTkg4?oc=5",
+            "published": "Sun, 12 Jul 2026 00:21:00 GMT"
+        },
+        {
+            "topic": "Apple stock AAPL",
+            "title": "Apple Stock Forecast: Can Apple Intelligence Spark the Next iPhone Supercycle? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkxldWUyUGlBLTBCbWljSGFZUGhjcWRBcV84aUt5Yl9GcUp4d0RRTERKWkptaUpOTFRqbUh5NEJFaFpNUW51aWc4UjJreXZXbF9zTzU4emJiWEpfZk1RMGhhaHVzbVN5WjlhVDFNbGRHN3huRllqTW1HekhwR0RUVkZGOTZ1OGJkQjNLdElLM0FXaTRyR1hkNHEzZHVxSTR6dDc3Vk1mZG4ydXdRLUpSei1uQXVNcDk2LUFUNEFISWNkd0NFVHhUOEhXLWFIMzlqWHUzWUVoZ1RDZlU?oc=5",
+            "published": "Sat, 11 Jul 2026 14:03:24 GMT"
+        },
+        {
+            "topic": "Apple stock AAPL",
+            "title": "Apple Stock Edges Up Overnight: Tim Cook Says ‘This Is Not Goodbye’ As Google, Microsoft CEOs Laud His Solid Run - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYmlkQ0FDT1laTFVIN2FuTVFrU0RlMF9Sd3VWbzU0d3lwSkU0UmhidXlSVWdEVXpzLUtDcmZYakxrSTBCN2dYYi1lX1EwOU9UNVU3VGRWYVdnMDdta0d0QnBKcVljX3RhanVqSlFvVVQ4eF8yb24yejBYTVhxeV9jTkhkVGhlWHcyRzY3ZjFUT3YxbXNMZ3ZkbUU1Qk95S1AzZ3I1V3BwTnRtaFJDcXdhdHBzZjFEQkJUMVoyeF9UX0M3cExJZk1PQU9DWG5BSjlHdXBDalBndk9TdmZhZXFUSlpqQkZvaVdoNU90YWpNUnRwYks4cUJ0aV9XSDdJWF9KcC13?oc=5",
+            "published": "Sat, 11 Jul 2026 17:50:33 GMT"
+        },
+        {
+            "topic": "Apple stock AAPL",
+            "title": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now? - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3QzdHhVd2ZRZlNxLXZ0TVlIeDFjc1RoOVhKdkN4WlpZZnFwQ3BTc1hpalNrdFdXeXNUTlBxaEtqb1ptaGRnWUFIQVZueHZVUUtnXzVOM1RiSnNISUpOb0R3amliTVdtaW9wdUd6NGNQOEZhOTlSY1dUam9UempnV2lmR1VPa1Bsc3V4enZIaFhVVHFSbUdGcXlzWXlkNjA3dy15UG50eGdoQTI4OVc3dzltUk1sd3BtOExybQ?oc=5",
+            "published": "Sun, 12 Jul 2026 00:21:22 GMT"
+        },
+        {
+            "topic": "Amazon stock AMZN",
+            "title": "Amazon Stock (AMZN) Opinions on AWS Momentum and AI Investments - Quiver Quantitative",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQjBucnhRaDFPTXZuejhCNGdMd2dOLVV1dk1fTWRwMHJMdVpXOGRESG9hcWNSTTdGajI0VU4zcmtVUU96dlZnZDVYVDgyQ1pScVZocFREcWgzNjJHUjZrTkduU2Y1UHJPNVdIYTZRUWY1ZVB5Y1N1eE9ENUJ6dEkwLWc4Tk9SUVZmazlRLU90X0RLRlVGT1E2bW84NW5NSXBTX0E?oc=5",
+            "published": "Sat, 11 Jul 2026 17:33:00 GMT"
+        },
+        {
+            "topic": "Amazon stock AMZN",
+            "title": "Amazon.com (AMZN) Sells Fresh Bonds, Is The Stock Still Cheap? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0pYeXVwVkgtRGpfSUtiby0wWklsem1KblhSRVk1SWlmOU92NVhLa3IzcGlsb2FqZVdQaHZMcHYxQUlVR2oxcGFDQTB3cXpQbUNLVDJyX3VNUms3SldTUlROX2syTFZzbmVNNnJ4RGpSbFE1VEM3X2RHMlRaMDVZUC1tX2c3djFSNXI4MTY1Y0ZERUpHSUowT3d1dldnWG1RNUx5ZnhKdUtDbXN5RXkyYTBwM1pTekJvTXl0U0M2YXHSAcYBQVVfeXFMTzhyQ1plM29rSlVWTldieUlvLUtOa05pLTJCOTI2T2lFdk5KVDA0OHA4UFpESTBJSFBEaUlDUzZJQ2EzNDZKbldnZFNobkxZQjk4RG11NUZ5ZEdEbTV4b2ZuZ2Vwd1gxUUl3WEZrc3FvLW5UbEU2OEhKZ1lzU0licXcyMnhEaXlIT0hsOGtiZ0YzaHFnN3c0S0pjYm56TVhLT2x5WmltOHFoQU91NDc3Mjd6aU5may1rMFhRQkN5WXB1ZTVZb3B3?oc=5",
+            "published": "Sun, 12 Jul 2026 02:31:04 GMT"
+        },
+        {
+            "topic": "Amazon stock AMZN",
+            "title": "Are AMZN Shares Poised For A 9-Day Losing Streak? Here’s What Retail Thinks - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEhaaW9VSVY4Y2VWOHZ2dHp5QWRjZWRoZmZrOVhRVWQxMS16clI3NFFvbDJldVRTeWxXa0ctcmo1NlVhX1M1WE9GaEJYLUF2VTdzU3RmcmwzWWNYdXl6a3AzMkpjV21UcDV2blZscUJDS0NaNlNMUDBhWmFjQ0QwS0Vwa0lPbUlrVjB3VzhHQmZDRkNPblluOW9GQmpxTmRadVQxSXY5SjZ5QU5EUkZqLXZVWUh1cjgzVmxXVWF1bjVScTVLZ1BFMQ?oc=5",
+            "published": "Sat, 11 Jul 2026 15:06:52 GMT"
+        },
+        {
+            "topic": "Meta Platforms stock META",
+            "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5",
+            "published": "Sun, 12 Jul 2026 04:04:21 GMT"
+        },
+        {
+            "topic": "Meta Platforms stock META",
+            "title": "Jim Cramer Remains Upbeat About Meta Platforms (META) - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2tJZ3hBanVjYkpRTFdhbTRrYmlXRXJjeDdRdkNZR0hZcGVXZk1ZcGZEYmdDRjJuZjRyczVTQTJHNUZYaEwxSV9sdTdORjhRSE0yWVhiTHNHLVJMOWU3NzFHSWhPbTVNUXg3RVVOdHFwd3M5LXA0Nm03SEN5VzJZaDhzalZnVmFKaGxCdmVydXJ0dkVWV0hCbERDNA?oc=5",
+            "published": "Sat, 11 Jul 2026 12:54:01 GMT"
+        },
+        {
+            "topic": "Meta Platforms stock META",
+            "title": "Jim Cramer Predicts 100-Point Gain For Meta Platforms (NASDAQ: META) On Power Deal Optimism - foreignpolicyjournal.com",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMmdLaFZxNDZsMFhLVXYwYkJaOFFxcjlGMUlIdmZobmZlbGxVSzlvd3h2dVlJOTVQR0tET0RLTTNuMmhhQkdEM3dTRFlpY1dWWVhrcVRITUpPb0F3a1J1blRueGVnYURpZzFHdG95Qmh1d3JXeVl1R1VyWUcxSWRUek0tdXQ3SUg4ZHdGd3ZoZzkwMkZ1Q05EQ0YzRE4yMEgzdnJVYmFKZ2N1ZGEwYncyV1B3WnRRYm41MER4YjJQMEFpQmJtQzExV3lHMW85ZEJWTnZz?oc=5",
+            "published": "Sat, 11 Jul 2026 23:25:00 GMT"
+        },
+        {
+            "topic": "Tesla stock TSLA",
+            "title": "Tesla (TSLA) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPeVFmY2dIZ1RpWnJOTWlVd3Nrb1RyTVRMRjUzYV9oT2ZZd2pnZ2w3YlVXT0ZpYWduUmVEMmJTUmIxNUR5QnpZYk5zblFrajVBQmp6R3FjTGl3cGtlUTYtTGhxMGVhT0REZUR3akc0QllUb2N0MzZ3TGtlbWl2M0FCSk5zUkRISmtJekRyc01mY1FtaGxXeTNXS3NPT1JSX1ZFa0lNSkRzR1hzOF9xM2dxMlNGbDNJWDR3clRCbDExbWhIUUNXaGlFVEVnZFVfT29sVFY0bWFOakduX2JCOVh4d2NTN2hZYWdoQkFhSUJpYW5uOXN6TFZCN28wc2p4Mklvb0hWWEdWRHRpM2hKdTc2WGFvdUxVX1k1dm9LclZYY3FQWmdzWExKRWFyOU1sVlYyd3dKdUdOVnUtMlBWV3ZqNFYxVnFxS2xYQmVuZE9sTDFCZ3Z6NG1GakNqeXBHbDB5d1BN?oc=5",
+            "published": "Sat, 11 Jul 2026 15:39:00 GMT"
+        },
+        {
+            "topic": "Tesla stock TSLA",
+            "title": "Tesla Stock Forecast: How Much Will TSLA Stock Be Worth in 2030? Can It Hit $3,000? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVFZibUlDdy02NU1WeTVUWEdZZzAtc1pOLW5HRFgyN2JQYmxIMlRhdTNFZHZUaU9zTFlSTllicUY4dlpCYTFlVXBBN00yeVpRUGVWRl93d3dQQkktRGZCc2lHVnpxUG5RbHFpcy14ZkdvRFVyWGxIajJUTHRSNDJ3c1dQeUxKS0ZaMDZtRlBHd2NEUG9CM01vS2ZhQVpubHo2WW1mYVdCRV8yUUhldWVZWE5MamY4SHBNVTdxM0FONFhqWlZvRXZkUWNZcXk0Q3p2WmRYZzY5RmxGMGI2VGFIZzlQQlE1VngxU0J5X3p5R3ptRDA?oc=5",
+            "published": "Sat, 11 Jul 2026 14:18:37 GMT"
+        },
+        {
+            "topic": "Tesla stock TSLA",
+            "title": "TSLA Stock Edges Up After-Hours On First FSD Approval In Europe - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUstejhfeDdZLVNWc0FqQ25sbVZsTUNLbTlCNjNQY2JyUTEwWnNJODhRQnI4M01LSzJhVVVSV2cxOVhpNThRQnhveDBmeEZKOW5KcHVFa1BXWGlXbFZMUXkxcjVIcXV6T2hDOXNTZVpId2Z0ODF2RXVrWEZ6cE0tOFNXa29QUzI1dF9NeVFvczlOdWY3MW5fRnd0NjRGTVZoc2kxb2RZdTZOeXVYYi0wN3VldThRTTFfYk1PMl9HZXI4ZDFWVkE?oc=5",
+            "published": "Sat, 11 Jul 2026 14:08:14 GMT"
+        },
+        {
+            "topic": "AMD stock AI chip",
+            "title": "What Triggered the Recent Semiconductor Sell-Off - Kavout | AI",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeV9hbWl4LXg0eW5ZWFVERlpaZGRsZzBkOEQzb0VuSmptQ2RsR3RUcldSTzhJcW1URGZsbnBjVUxmYlNpMHlESnlJdEVvZ1RaSWloQ0ZfODJXV012UF9qYjFfYVNDaG15cXpBNXYxYWpjaGNIY2hRa3hOdGhUSjdOcDhabENFWmFvV1M0?oc=5",
+            "published": "Sat, 11 Jul 2026 13:38:32 GMT"
+        },
+        {
+            "topic": "AMD stock AI chip",
+            "title": "3 AI Chip Stocks to Buy as the Sell-Off Continues - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBweExTZWt3cFRhVXd1YmtoZHdWUGJIb0piYlNQZnp5YWRySjEtZEV0RzYtMXc4QzBlSUZYLTlsNnZkMnBxaFhpZVFkU3ZmUmQ2cHFkUlpiRmhOaWIxNHJaS0RaclNyZUlQTkt4dHAtbzMxQQ?oc=5",
+            "published": "Sat, 11 Jul 2026 22:00:15 GMT"
+        },
+        {
+            "topic": "AMD stock AI chip",
+            "title": "5-star analyst sends AMD stock investors a warning - thestreet.com",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVdNYUU4dVlrZWVwMkotV191a0ZsNy1KRTg0V1VlZUs5em9KLVBQbDdFdHBQck1IVzZ0cHRzRmJSQjlWVXhxT1cyVjNRWjAzb0VJbnhKc3BlOE1iX2JZR09OX3hPZ2JsRktGclUtUU1zS3U4bGJUdXVzX3Y2OVJKeGV6ZGZGcnYtS0o4?oc=5",
+            "published": "Sat, 11 Jul 2026 14:33:00 GMT"
+        },
+        {
+            "topic": "TSMC stock TSM",
+            "title": "TSM Stock Slips Premarket Today — CEO Reportedly Says AI Chip Shortage Isn’t Ending Anytime Soon - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU5KOHVZT19qRTNCVzJLRDF4UjNCZ3JaeFBUZVM0TDBzY2tHYU9fTDVnajFaOWhOb2xrZUVBZnRDbXJoVnhBNWNOUmN2WFZ3X3d6VVdjcXU4am9yTFBwNEVfdWI0cm5Bd2F3VmN5QXB5X1NWX2JCV3NsZ1JzNHVITHF6X0lJVFdPLVFXQjRwdTBUb2dZVFg2V19xNDFid2V4OURuM2RkdUFTT0RVR0lCYUk4enJxQ3Zm?oc=5",
+            "published": "Sat, 11 Jul 2026 18:38:34 GMT"
+        },
+        {
+            "topic": "TSMC stock TSM",
+            "title": "Intel vs. TSM: Which Semiconductor Stock Looks Like the Better Investment? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlUwdE9uMGNJVXlaOU4zQlByQTZ1dHAyQnpaVmVJT3VsWFEwalVJSlNJa0txeFNMdnpJR2dVSHRGNTM4NEN0MmZTMkk0RmFXRlZCdF9FbU1yZGNRZTdXZFlWZXpCamU2bzZFX0wwMWR3anp0dTBadEZBckxPc3ZhbGY4X0p6VEUxUzhNcUJEb19EejluV1ZOWkRndEVKbW5ZaW4wM3JDVGZuYnlkdHlMSVlmMno?oc=5",
+            "published": "Sat, 11 Jul 2026 14:26:18 GMT"
+        },
+        {
+            "topic": "TSMC stock TSM",
+            "title": "Prediction: Taiwan Semiconductor's Stock Will Soar on July 17 - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGFmVkd6MFAzR2xaS3lKRE52VTF5Q1lNQldsdVJDSDgwU0FaaWRpeEM5a2ZzRGpTd0Y0clY3TXRNRHVEM01Xc1N2UmdwNml5X1hQczdZYWJFbTFXMUV4bUdDLURLU0lleWpTbl9vYk55ajE3RGszUG04MlZndHhkeGZDcHhOOGpfNTFFdklDZTBWMzUwM1NZ?oc=5",
+            "published": "Sat, 11 Jul 2026 16:32:00 GMT"
+        },
+        {
+            "topic": "Palantir stock PLTR",
+            "title": "Palantir Technologies Stock (PLTR) Opinions on Recent Analyst Upgrade - Quiver Quantitative",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2Zjd3F6RTI4SF8yWFdtNTFvemRFYzFHaHBULXhLeWpkWGZjY3phZk9La3BvRjZiU1VxNmJyaURYRlNnRDFwV0sxWGxudGlESktMTmNrV3BIem9uVTI0YUtWeE9NU3BjSlFjMXEwNXp3YlNKS21aTlN5bml4RWVnN0Uxdm1OU3FIbzdpSU5VZ2M1RG9BM3dBamdtWi1SZk5OeWcyYW80WXRIQQ?oc=5",
+            "published": "Sat, 11 Jul 2026 14:06:00 GMT"
+        },
+        {
+            "topic": "Palantir stock PLTR",
+            "title": "Why is UBS Turning Bullish on Palantir Now - Kavout | AI",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTIzOHU2U3Q3VDJvN2draWdKYUwtOFdkV0JsM0pfcmFOQ3hJMWRXMGtGVEQxSFlDNmlGdDVDb09pcFBFV1V2cXQ5WFFZWWx4al82RllwcGxPTFRIMWZrYmoweGtSdWZJSHhZbmZkUEI4bjE0aWt1LWhvTDkyMnhOWUVZaw?oc=5",
+            "published": "Sat, 11 Jul 2026 21:28:06 GMT"
+        },
+        {
+            "topic": "Palantir stock PLTR",
+            "title": "PLTR Rises Premarket: Rangebound Stock, Mixed Retail View Signal Dull Setup Ahead Of Quartely Results Today - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSjg3RzBnbVpHZERWQm16VDduamg5MUlIYjdqeUZrWmZDN1VseUkwaFd2WnhXaXI0R3pkWG9FTjdnU3BqOC1UWGpkckFGODBhcmM2MndMQnp4ZWg0blRzQWdzNE1WaXVoVDRaNzE2US0yakppMVdoZEN1T08zd2pQZXQxamUzRnFQMUZlT09TbHB6VC1vZ0FMTWpVYmRKTDdQaEtPMGZ4M1B5UEV6NjBpYmpBZTgzMFg0Ql9SN3VSdmdTRWROOVZYaHozeWVtV3lMa2hCLTgtR2NUREo1M1JQWEhJd2pOZ0F6WjZQeXdueEtUVVNpOG1jS2dCMl9vdw?oc=5",
+            "published": "Sat, 11 Jul 2026 13:32:00 GMT"
+        },
+        {
+            "topic": "Super Micro Computer stock SMCI",
+            "title": "Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDlpU0pNT2E1WDYyWW03ZGpRRmJHY1dmeFp0NEdtWndwVlVQU0lSWHRWTjFfVHRkam5hdG5MaVJWV1ZpTkJTWlNZY2dvUVRnT0NFbHpaN0cwbFBJQVFTMlVDMDZVN3hvVkZ3ZUZnajRGQ2V0NGRDY0NuT2I1ZXBWZE1UWlVDNXhUcXhlNTlBOThEWlRDaW85bnNuZ1JFd3pqUjdJ?oc=5",
+            "published": "Sat, 11 Jul 2026 21:12:02 GMT"
+        },
+        {
+            "topic": "Super Micro Computer stock SMCI",
+            "title": "Super Micro Computer (SMCI) Launches Edge AI Appliances As Legal Risks Keep Valuation In Focus - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHFMRDNwTXRtNTN0YzFXTDNIZ3Jkc0V5VDhENjBJMzktTFlUT190Q0FrVmt5Z0NVYWRNT0ZwM3M4cmxqUEdjakVwbkxOY2RkcnBGbHhNSWY3cEE4VnpMX1dRVWxtTjExSjhHajFtWXI3d1pYeUFBWDdxb2tQaE1RcWxaMFd2b0FMSzFsTGpaMFdmNnBrOUkyYkhGVkR4RmFlNjJnU2U1dUpzQTljNXlOaERHZHhPTzFzYzRpM1RwM21ST0tQLUx6ZGpLVUpNMEw20gHWAUFVX3lxTFBvTWgtektZQ0h6WThqeElpRXNHOHZwSURueGE2cURTWlBhem1MaWFTSEZ5eEtPQ0VRanBCVmk3QUVQb28zUjR2SDFTN1dlV25ET3VCYVlyaHhVcHJ4cGVIM1lWNUY5bEdfOWN1MmNlRWVNUHQzSEFCamVOdTBzYmVxeXd0bFMya0ZXN2JnbFJBMjRDQUx4V2dma0FWS1BoRjFKNURkeEU5bTMxR1pWVWZFMjdUeGdlVEdiUTYzSW9KYjB1ZGdLWDk5WDBvd2FuTy1OTjFQeXc?oc=5",
+            "published": "Sat, 11 Jul 2026 14:49:03 GMT"
+        },
+        {
+            "topic": "Super Micro Computer stock SMCI",
+            "title": "Pushing the Edge: Super Micro Computer Reboots the AI Landscape - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVEVxeVdtWmRxZ00yNENmSjZDTko3NnlONUxRUlUzSDlYam1iVGJ2cV9XUm1fVV84TkNDTWRxSzdRWGkwWGRwbjF0SlpSdWpZckJHNkpoR2hhQ0dvQ2RoQlNSMW9jTC0wcXZfd1J2YUxjYVhvbE5jZTRHNjJwc2pQYUF3emJaVXlWZDZDeTloa3YzR194bnJQVGdpTl91bnpC?oc=5",
+            "published": "Sat, 11 Jul 2026 11:56:54 GMT"
+        },
+        {
+            "topic": "OpenAI Microsoft news",
+            "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets - The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
+            "published": "Sat, 11 Jul 2026 18:00:00 GMT"
+        },
+        {
+            "topic": "OpenAI Microsoft news",
+            "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - WHEC.com",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0JkR3hQMjctcGl5WHJOb0tuRzFfS2xyVG4wVWJfQndBNFlVYTc5UUtRbm1JblNNWFdqaEVPLXQybTF6eVRvZU11T1JxM1Zwb0JIczhtRnBVZzcwUi1FcmxZbldpUXllUHduMUI2eUZsc1J5aHR2THd0RExtUVlXeUItSFdiZE90WnFrQzVoSXNyaU9nN3BUNFRnRngtd1o2dnVPTUZUTFQ1LWRjVTNDWGtOZnc?oc=5",
+            "published": "Sat, 11 Jul 2026 17:10:10 GMT"
+        },
+        {
+            "topic": "OpenAI Microsoft news",
+            "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag - The New Stack",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10ZkNTb0tGVnFXQVRyMWttSkdNekIwLW4yeWhseV9nVkliZkxYV0JjY29NN2NBX3QxMGdTYURWekFZVGhVN1ZQWHhFd0NvVl81LU1jYmxyb0tKSTZRbGdVdmZ3?oc=5",
+            "published": "Sat, 11 Jul 2026 14:04:12 GMT"
+        },
+        {
+            "topic": "Bitcoin price crypto",
+            "title": "Cryptocurrency Prices - Real Time Market Data - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84NDRtU0tld2JLOGx0cWRybVhnYjdIbnpzeERELXg4LXFpX3RTSE5UeVIweVB3Vmd3dExVR09oV1ZaN3k0dF9F?oc=5",
+            "published": "Sun, 12 Jul 2026 01:35:29 GMT"
+        },
+        {
+            "topic": "Bitcoin price crypto",
+            "title": "BTC price range on Jul 12, 2026 at 3am EDT Crypto Prediction Market - Robinhood",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDFqU3Z6SURvai1EQkhQYl9LRmI4bkNfTFpFaTZEMlQzWXNab0wyMWlKRjM0SDVrVUdfN0JZZ1VXRE9RT3RPcG04NmhGVktXQW5FVk9xX3dWVVUxSkhld1BQYWc4X0lmOVVhWV9SNlBQOUVvcXJRTFo0SlJQQmIwS0s5SHRRV0RMc3llZFFtYTNTRV9adFp1WFZmLWlBSjBSb0ZScFJLc01KYUF0bEwyU2hUZWNjQQ?oc=5",
+            "published": "Sun, 12 Jul 2026 06:12:48 GMT"
+        },
+        {
+            "topic": "Bitcoin price crypto",
+            "title": "Cryptocurrency Prices by Market Cap - CoinGecko",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oenY1RkJZTlhJZVJBSndpQ3h0Vk54WEJTOG5uODNaQXBRY0xNLTY4N1k2SmRRbFVlcWd5OVNwaHdHUndjWXU3anRPOWtaNWNvTHZyNTZDYXA?oc=5",
+            "published": "Sun, 12 Jul 2026 05:13:11 GMT"
+        },
+        {
+            "topic": "Ethereum price crypto",
+            "title": "Ethereum (ETH) Price Today: ETH Live Price, Charts, News - Crypto.com",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVm8xNXJFY242eDIzNDdNN0t0M2pQdWlDV1hFYTZnX3U2b213NG5nNlIzYUxJSXItcWVqM0FxbHZkSGVEcGQ0djVzc2w?oc=5",
+            "published": "Sat, 11 Jul 2026 07:30:16 GMT"
+        },
+        {
+            "topic": "Ethereum price crypto",
+            "title": "ETH price range on Jul 12, 2026 at 3am EDT Crypto Prediction Market - Robinhood",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlRUUXVvWlBKNng2NG1LREU0UmlkNlczNnhYTGR2UDVNM0FUZWNDZGNJVXVDdVJqeWJWUGFwT09MZFluRWJjYmNIMDhqZzVoYk45cHdhTXJyOThNRG1kaE5LU3pUNTZhWm5VY1BzMzZiSnZEUk04b2dsZFJoUU44aTNCYzJrMml1bFZiaC12V245a29MTHhSdjBDdFlNMGNOVGxvZDJjZ3VDbDZRWC1KUy1BSG43UQ?oc=5",
+            "published": "Sun, 12 Jul 2026 06:04:05 GMT"
+        },
+        {
+            "topic": "Ethereum price crypto",
+            "title": "Cryptocurrency Prices - Real Time Market Data - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84NDRtU0tld2JLOGx0cWRybVhnYjdIbnpzeERELXg4LXFpX3RTSE5UeVIweVB3Vmd3dExVR09oV1ZaN3k0dF9F?oc=5",
+            "published": "Sun, 12 Jul 2026 01:35:29 GMT"
+        },
+        {
+            "topic": "Dogecoin price",
+            "title": "Dogecoin price on Jul 12, 2026 at 3am EDT Crypto Prediction Market - Robinhood",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXRqRmxBd1VUamhfdVBfUC11UVVYZFEzVW1faTBWbkpPSURxZDZReHRqLWgxRlVxTzhwVGFReUtWZGJzOHpxa0k5bC1JUU0wc2xneDJzNm9aV1VHWFFXcFlzSkFPZThYc2NEQ00xS1lzWmc5dlJBVkJXMHA1NE5EVXE2eFJiRTJkUUdCckFHcVpIaUZfV2dKY2JOZm5QY2kxM0gtSWNWbmxGVkdvWGl4cnhQZ1M?oc=5",
+            "published": "Sun, 12 Jul 2026 06:14:11 GMT"
+        },
+        {
+            "topic": "Dogecoin price",
+            "title": "Dogecoin Price Prediction 2026: As DOGE Defends $0.07, Traders Watch the Live $BULLSKI Presale - StreetInsider",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVURIbWZtVDlGWjd4cXJxbzBhMGpjZlRoVkc1c3Q3dlZZUlJGWUg0cVB1UGdjSThCeXFCakVtTV9tLVNaaWp3S0sxaWdyMlpTb2k2bkhHZDkzNFUtV05xeUltUlJpR1B6OFRuRkZ1dENvc3dzbDV3UlVkeUNJWWlXWG5XSjZyU0VqOW1wTGdRTm5pcW1RQTMtUEtzc1ZrMkdJbXlXRUtHb1RHc2JsYWh2aVNWeUZyVEpjUHNMRTBWSjliV0ItQ3I4RFhQOVlUS3FkVXlaaDk3RGNWOEtzOW1henRrQ19yWml5aXFjQm4xQlBqb3RG?oc=5",
+            "published": "Sat, 11 Jul 2026 22:11:32 GMT"
+        },
+        {
+            "topic": "Dogecoin price",
+            "title": "Pepe Coin Price Prediction: What Would It Take for PEPE to Reach a $10B Market Cap? - Bitcoin Foundation",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEVsNWJjRGR2bmJBX1hMLVV4QUtub3VPeUpPTGZDbUluYVBqMkJXTUozdFRZdXRUbmZOUTI3eHJjZXJYVTZaVHR4dHU3UVI0cGU1U3hwSEZ1YmxaeWFBSXhGU1FHS0ROWXEycGYxaVJ4Q2otODg1MVRra3dHajBZMDd1U09XRk5LMFJKSkdRZ1ZVdHI1N0swaE05V052RE01RkdfVVk5aW1GT2lYMmZyNmpzVEhjVWFWUjN3eVRCVmUzNVE?oc=5",
+            "published": "Sat, 11 Jul 2026 09:53:45 GMT"
+        },
+        {
+            "topic": "Coinbase stock COIN",
+            "title": "HOOD vs. COIN: Which Stock Looks Better for 2026? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2hmQTZTQmpGMWN5VTdTQzRLREpHalE1VG5zQkxKV25oNEo2MlZvYndQa1EyYVQzNHJuNkdnZDNlOUtfWXZQS1gxSWZoSzhudHYtWTB3TUZtdzUza2dwVG0zTE1NcEpvd3o1bnByc053OENEVG5Gd1NpQXJ1bUFJbGQ2Mmc5YlBxVFhmZGt3aWZ3Nmc3SDF5akJ3?oc=5",
+            "published": "Sat, 11 Jul 2026 15:07:18 GMT"
+        },
+        {
+            "topic": "Coinbase stock COIN",
+            "title": "Coinbase (COIN) CEO Backs Cloudflare Stablecoin Gateway For AI Payments - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUEFzWTNXOFptdmRJd1ctMmsyR3BjazJYRzlOUUhhX3dJOFU3ay1nY0VPUjJ4TWNZZXIzanhPcTB6T2JrZ1M2OUhFUU5uYkFWdkROZnh1eWFZejdTQ2R2ejZwSHp4UWwxSnYzZy1HVW55c2wwWlpQQ2hVNWdEcElBZExSVHBsdVFUbHZCMnk1RldNeU5DNXRiUXMzZlE0LVN1eElqN3cwUXZBbGl4Nk5Nenl3bHVwWEpyVVN4bXppVEVaU1F4dl93RFRxZjVNZGljQ09TbXhaeFBjNDV5akdzdzVR0gHnAUFVX3lxTFAzSXo0bXMxT1ZsVUhyM0lTSTdfSjI3RW1CSE12c0wxanJZaEpSa0RIdWZZNnJyXzZ1QjA4c0xFV3VPUUhpaGZ4VUlkTHN0SzJxQ0VLU3lBQm5zblBkazlWVDFERktaZEZOSHIzOFVfSkUzUG0tQ19Sa25XQ3MyT3lnanZPenJLWHlhM3pGZEJOTmdnSzlfTkdocmk3YkpZT2VWTmVIUlNZa0NnWVk5UVJDSXNDdXNGdWpoUEJzdGZxLWZIRE5uMUlMY1RTelRURDhpUG5iYzc4a3p6SEhPZWgySWdqRUktcw?oc=5",
+            "published": "Sun, 12 Jul 2026 02:31:04 GMT"
+        },
+        {
+            "topic": "Coinbase stock COIN",
+            "title": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXZXX3RJZGtHdUlTMk55d3BmZnEySGl4Sk9qb0NsWk9MZ1RyRnJWYndwZk54M1AyREpRWjR6WUFBQUM5dDV1RThDNnZlN1M0YVFxOVdWOGVjM2hMa2tSYWxUdXRPY0NsRjVxNUpXRERkOEg1OHNiMzlUNG5ISUZHR0g1Y3hKVTJpRDNndTJOdHFfSzVnaEE?oc=5",
+            "published": "Sat, 11 Jul 2026 16:03:00 GMT"
+        },
+        {
+            "topic": "Ford Motor stock F",
+            "title": "Spectrum Financial Alliance Ltd LLC Acquires New Stake in Ford Motor Company $F - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSm82UVg4Z2wyRDFhNG5HSWJDWmtsQ1dwdDRwTE1XV2t6bl9RblptZ0dDZGJwanBZcDRsd2ZuVEhOWXVQZ3dyTGZmM1JaRElxUHdYMGF5Z2FmUDhHeVlFUm5HYi1iUXNEajVrRGtmNHFpSk9KTTBPeHhNclhCWjdNQVFhTlladjlsMEhNQl8zdXJ6OXJIbkF3X09oTWVOa2pBRENMTFJMVVVsVFpqcjZOZTRidkxybEZOMHlBSlFBbTZKODlvOFFWX3lrNGQyUUNBOF82NTlB?oc=5",
+            "published": "Sat, 11 Jul 2026 15:10:58 GMT"
+        },
+        {
+            "topic": "Ford Motor stock F",
+            "title": "Ford (F) Appoints BlackRock Veteran To Lead Policy During A Pivotal Auto Period - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2V6QXB5UGIwVnlBWVRJYTJqTWtCWExEblU3ME9zUS1PZ2lWXzJNMU1rVGk1dGVPRUVrblBBdEk0WlpKbkpGSFVIS3dBZHd4dlVUVjR0S2lFT0ZBUDhOVUdTdmhfbE9YTmRmd0NNUVBKWUhVLS1DYk1WY2VzcUU1blhLblRYYVBNZDJZbzdQOFZfQk5jQ3BZbkwtcjRmcE12VG90Z2kyQmQtV3hJUFo2bVVENzZWdnEzRDRnaXppNHFiMTI4RVHSAcsBQVVfeXFMUHZid1NGUnlael85MU5XRi1LaFJCbndHY0FjUmJ1OFR1VzNyWl9JeUx1V3VuYUY5YWN4MmJQT0t3aW1DcmNocWFuM092WjNiT2pQLTNFb3ppUy11bjhCRnA3TjBWX2M2S0stTEtuX0xpWmFaZndHOG1Jb1JsZzdTZ09YNnNpMDZSRkwxSVRZdWY4V2x4NC1zY2FUVFpodVZRWjhpb1hwemFFZi1PSllEOWo4c3BEV1NFOFo3Z1ZkQ2Rfbk8xYjlZSm1scFU?oc=5",
+            "published": "Sat, 11 Jul 2026 19:36:15 GMT"
+        },
+        {
+            "topic": "Ford Motor stock F",
+            "title": "With 6 Months Wrapped Up, Ford Is Losing a Race It Rarely Loses - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HcjNOc3pVay12QWxWMmpnb3VJVjg5Q0pVZGNDYzFNSVRxbmZQVXVkWlpETUVfTjB4XzJtd2RJUHFiU3NCcWZUc0tJQ2JTajk4Y3BTVG0xR1NKUm5vVzZOYlVlM0k4T19kbzVUWV9tVWdVcW90YVA2b0puc1Q?oc=5",
+            "published": "Sat, 11 Jul 2026 12:45:09 GMT"
+        },
+        {
+            "topic": "General Motors stock GM",
+            "title": "General Motors (GM) Stock Looks Undervalued On Cash Flow Yet Overvalued On Earnings - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2t6YnVMekduNjVsTkhqeDZNRXB2Q0s2YlZLelQ3YmJkcUYtMGo5bU5zLUFsTExhUi1yMUdRTV8zNldoNlZjVV9idGMtdFVNMDV1VHZmZ1VMVFFoenlkd1JfUmE0aTFvemhueDBOVEJfdmZwVktKS2I0NW9obVo5TFhrT3FacUtQU1UxR3lFMm5DSGFCdW9Ball3?oc=5",
+            "published": "Sat, 11 Jul 2026 13:11:23 GMT"
+        },
+        {
+            "topic": "General Motors stock GM",
+            "title": "General Motors Company $GM Stock Position Reduced by KLCM Advisors Inc. - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnBWRFNYdE1GOWxWTVNSWkVBaXhhZzRpT0dCNmlHRWJiMmdZa29YbEYySjVpLWpELU0weG53UWJVdWhYbHByQm5XX1lWQnFvaHBNbTN5TE8ya0Fzd0pkUUJpeHUxUlJhWnBHaU4yLXdrMU94N3psaGk0dlkzWGVxaVY3VzhSWmZybGo3NTVqNTBWLWtQa0V2RGU1V1RkZ0xOMXlOWGo4eEFlWHc1WWRTalVJbjVtclB3RU8wRGR2T2VfbXhMSmNnam53?oc=5",
+            "published": "Sat, 11 Jul 2026 14:54:50 GMT"
+        },
+        {
+            "topic": "General Motors stock GM",
+            "title": "Ford, General Motors stock performance for week ending July 10 - USA Today",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaEZyOHBEVXRzNE1WSHYyTkZHUTdzejA1SDNJRmlNUDJtMk5LZXgxMEdFWURZdnBLZmNJeE8wQjZRQmVLZUNVdmpkSWs2UnBxSVRyYk1XMkNrSmVlWFZ5cVZLRVJrbzVVV05kcnctUERyN2ZqcXpwOFZkMHJvSHNTZkI3eHlFSVJOblR2WmJBYTZ1X2YxZUlUYWV2aEkwZHlreUI0ZDRheHZVcHBGSW5fMGR4am1RMUpwVk5qVjFHRFlJdw?oc=5",
+            "published": "Sat, 11 Jul 2026 11:26:50 GMT"
+        },
+        {
+            "topic": "Toyota Motor stock TM",
+            "title": "How is the Weak Yen Supercharging Toyota's Profitability - Kavout | AI",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFdkczBPNzI5R2NMQmE3RGpjSTd1S1JrZ3RzTDRydWdQR2ZwcThtVFZZV01GLWtYRlE0THNQem5IWFBqcmdCMDNSSk8tNTltVFFzR2t0WWZUbGR0TjVpYUZZTGR6WnlzU0Q5ckVIcjZJS0p3R0RCQmZwVUstMDJZN2tRTVRMN21nRVJ1Y1d6S1NPaDNXX1E?oc=5",
+            "published": "Sat, 11 Jul 2026 12:10:56 GMT"
+        },
+        {
+            "topic": "Rivian stock RIVN",
+            "title": "Rivian Automotive (RIVN) Could Be 4% Undervalued Following Its $1.16b Share Sale - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLU8wcTB0OTA4YjNQMXV6TmN0N3VGUzJDX3lvUXphSkMxenJZRVhvSkRwTEl4cVFRTnhzY09aZFdmUjdybmNZLTJxa1p5TGRCbkYzZHJib0g3d3FVeHpKdTRGNDRaUDNHMWhGV1FZMG5zZnU3LVF6WWFiM0F4OVpyRjlkSkRtaHYtVV9FMkJDRkVpOEl3RjlEV2JmZlFkWlR2eDdLNlBTYlp3OEZvWVVoa3h4djRybjdfeUR0STBfNXNzQXZzUGRTM2xmeDl5UXdyWHIzQdIB2gFBVV95cUxNRlQ4Nk9RelU1YVVvVTJzeEtKZURwMXJFZDQtaW9ac3o3b2Y4Yk1QTmtYOFVCMzc5cEtZbXVTaVUtT2N5aDJsVVpiU2FGQk1qV2IxT3d0UWdIenNmXzlvM3Q2ZWw3NXNsOTc4TXZvdjJKb1NYNENSRDBEYjF4WTNTcTJ4RUZDMzNMLVlRMzgxcWdyV0xjNTRUcmhLNkNOZk41bVhIb1gxVjFUOGtUZGR0djVYQ296VDRWUFpGQ3NPOTlPMTVkdzRJdFRXbjlOSTdNTXZseWlVbE0tdw?oc=5",
+            "published": "Sat, 11 Jul 2026 15:40:17 GMT"
+        },
+        {
+            "topic": "Rivian stock RIVN",
+            "title": "RIVN stock sinks as Rivian announces 75 million-share offering - MSN",
+            "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOcXRYTDY2YUdNS2ZjVkxHbXhaTTgxTDY4U1pGcnM4eHBWNGc3dC1mVVJNTVpyUmNhU2ZyWUw3ekFOeTQ0a2JBdmw0MHpVRlVFUE1DUVFWMXpiZ1VXMlpvWkVuc0pyUE45TDZzMXRaLUtDU0tyanFzamRrbXJLYVV1d3BlMjBDUmkwaG5IbDhLZ3hWNUtQOHkyd1ZHRDB5MVJPczduWlU1MjE3VjQzSE1qNUtON2NoS055T1NJbUVhWUoxcDJMNHlyZnF6emU5TVNGd25oZGIwNWo1aWc4UTdRdmMzeFU4dG43X05hbTVWdGQyUDZBN2VqUndhazZKTGhvRC1lemZtQXhNU1pJOWNXdnZXdzlDakpMN3Nkd3BuQWJwaXp3ODJ5MEEwN3c5N0Zrc1k2a3p1cGtPaUtxOGtOREZvQVR0SnozaF9PMHlKZk9TS2dHVkRkR05rV2pBb1NiakhuUXAwbG5vWU81Ry1oZA?oc=5",
+            "published": "Sat, 11 Jul 2026 19:30:31 GMT"
+        },
+        {
+            "topic": "Rivian stock RIVN",
+            "title": "Rivian Just Did What Investors Despised Lucid for. How Bad Is It? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEZmdFEzWVE2M0hMUUpWdXoyZmFqeEFNaXkxb1owZzBVQWhyUWhWLTlRMXgtNko0VWUyc2w1R3JyOWdHMS1UQzl0d3VjUjJENU85N0ZaVG5EVjJrOUtkLWhzMjliR09iZS1fQkNPc29wbDVlenhWckpFMVFma0w2SEkwbFhNUzc3NjBkNExaMWFFVVVQOHZNYVd3X3ZobTQ1?oc=5",
+            "published": "Sat, 11 Jul 2026 14:20:00 GMT"
+        },
+        {
+            "topic": "Lucid Group stock LCID",
+            "title": "Kaplan Fox Class Action Reminder: Lucid Group, Inc. (NASDAQ: LCID) Lead Plaintiff Deadline is July 28, 2026 - Scott Coop",
+            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZTlpRFE3dHpvWWlGWkxfNmFkY1kwUVV1WUJ2QnB4ejljLVIzYmk1c1VoaExZT3BsYTYxUlV2Tjh3bkdpbDZSVEFqOXpSN0tRdzN2V19Ya0c2SlNhV2xHQjFtQ1p2TG90aEl4dWxIYXhaYTZMYlc3NTR6REQwNzhZaVpTYU9PdXh1dkplSl9SLVlvbkRkNkszQVg3V0xERl9ScFBwTzdja29PLVZXQlN2YXFyZDFWNEZmdFdGNFZ1b2NRSE5uaVY0cjQ1NEIwRFJZYnAxeW5BNUJONFh0ZXM5ank1aWVjektUM2dHdGttWVFVZGdreFh5YTZJREV3aXNvb2xkYm1rWQ?oc=5",
+            "published": "Sun, 12 Jul 2026 04:41:55 GMT"
+        },
+        {
+            "topic": "Lucid Group stock LCID",
+            "title": "LCID Stock Rises Overnight: Lucid Reportedly Cuts Europe Workforce After Delivery Weakness And Delayed Launches - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUZOMDRwbEI1eG1FbVFETUtMZmF3R2Q3ODNTdkk0NVI3c2lZZnJjNmtjZ1RkNXFab0xtZWY2S082ZEhpMHM0emwtMjF5cHM2SGRzeGJUcDdTcnAtRVFTVFI4d2FtNWFITUgtRW5wT1dEb1ZEbmdQZ296VDMwekdoM05EczczN0sxd1BDX3lqaExrb3dDcUl3SnIzZEsxcVg5VmdSOFVITGFGZ0pESDVHNzNGX0ktSE9M?oc=5",
+            "published": "Sat, 11 Jul 2026 20:05:46 GMT"
+        },
+        {
+            "topic": "Lucid Group stock LCID",
+            "title": "LCID SHAREHOLDER NOTICE: Faruqi & Faruqi, LLP Reminds Lucid Group - The National Law Review",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGZXdGwtQ3ZzNFZlcGFuQUxUa1lKNV9JMzltTWctYm8tc2ZLSGlzMkpncjg1eHF6dXZGN3MwdTNrLURGSUMtZ3ZNUUtpX2pWTEh4LWNISkpyUE5HS29iSDBkRzJYdUpMdVFiRWRuN2p2dGEtUTJRS193YUxHMW1tTnhpRkJPQzNVdU4teXQ1T2xmYThmSU9pSzFfLUpiQ0hOX0Jab0dsREFsZ3lfLUZkQ3NHS2F5MUE?oc=5",
+            "published": "Sat, 11 Jul 2026 13:42:38 GMT"
+        },
+        {
+            "topic": "Boeing stock BA",
+            "title": "What Does Boeing's Acquittal Mean for Its Stock (BA) - Kavout | AI",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVNRNDk0ZU5kLWdOVGVvV19LcGhqdTNSZVhBTkdBQVRiWm1OZTNIVGVGb2hod2p2SEFjMkwydERVREktWkd2VVVjbldJeWhQQXFqWVJSRmxhVnAyU3E1UFdSWlV4SmpfWUhSTTBNRVNDXzV2aTloWDQ5YThpMzA5ZVd6Zjg0SWk1WV9UMEdB?oc=5",
+            "published": "Sat, 11 Jul 2026 09:37:29 GMT"
+        },
+        {
+            "topic": "Boeing stock BA",
+            "title": "Jim Cramer Is Impressed By Catch Up In The Boeing Company (BA)’s Shares - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalFseGxGVnBISFBXSW1qem9nMzJ1bnZFSmtkLWFQME54a0x3aWdkMzFQNS11WFh0Wk9iR3ZXRHZ0U0N6cFg2NVNvM3BGTmVvYWJORHB5ZkxzbXo0MUpGVjdJWkR5TF83RGd2RF9KMWs3a2xSQ1VMQWd5UFVja2NFY1JzQXlvMnFGQXZXS3VieERvaVphQVh3SVBhRWZBeTA?oc=5",
+            "published": "Sat, 11 Jul 2026 12:54:34 GMT"
+        },
+        {
+            "topic": "Boeing stock BA",
+            "title": "Spectrum Financial Alliance Ltd LLC Grows Stock Holdings in The Boeing Company $BA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVVhROFNkRmR1ZGlaQU83TUt2MEllRjJpMFBSVEwyMzBWUnV4OF9tNjc1aWE4YURJYTJtQWVkUDJmQ3pNMG9PeXk2NC16Nm45WWhIV3BIelM1MDZkU0hzamhyVU1KcVVXa1lvS05sRFBVUWZDSDdCZ0xCY0FiWFgwNUtTQXQyUlZoSlluR0wwZFB6Rk8yUUUyV0JyNGpfWHhnWjdCeFFhS1F4T3Qxa21WOXFPWkxCMWUzdDNkNzRKcGNNVGNEWUg3WG9TTXJORFd5d2J4c01DM0x4QQ?oc=5",
+            "published": "Sat, 11 Jul 2026 15:10:57 GMT"
+        },
+        {
+            "topic": "Lockheed Martin stock LMT",
+            "title": "Conning Inc. Reduces Stock Holdings in Lockheed Martin Corporation $LMT - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVm9RbDlJdGlPRlhEbG9CQUk2TG4wc0g4OERZdndlZjJqTEJfaV9CV25tMk1vUUphdldlRDBaRGdJTjU4Q1ZTWXJHUFZORkVLTDVoNnJ6SkNhWlNrbVhYUk9la25PRmJPd3lTR3FQcXlKVDNUMWRrZ0ZReHBuOFdNaDZab3NJVk9ZWUpfUTNlWlZWMTNoNDE4MjRIYlQtN2JrWkRhRmxpWklYZ2J3bVUzbmNiUzdrMFFpUDRnbFpaR2JUQkZlLWMxV2dB?oc=5",
+            "published": "Sat, 11 Jul 2026 13:53:18 GMT"
+        },
+        {
+            "topic": "Lockheed Martin stock LMT",
+            "title": "Are Defense Stocks a Safe Haven Amidst Geopolitical Turmoil - Kavout | AI",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUXFvVmpSMWJld21weUFIelFpMFJoNWN4WU9aekE5Z1hMdDdfVGkxdjJFalJiWGtKTUsyNWNTT0Nrc0lJVWhBSzBuTURraHFBZm5HcmtVSFpDYW5TYXJNYlNDZ2REQUZZZ21WdW4tOUtDcERQSENuNjRJNlIzY3pwcm9UWlE0aEg0YXFUZ001ZGdFbUVDTHJOU3BB?oc=5",
+            "published": "Sat, 11 Jul 2026 12:12:43 GMT"
+        },
+        {
+            "topic": "Lockheed Martin stock LMT",
+            "title": "Lockheed Martin Corporation $LMT Holdings Lifted by Spectrum Financial Alliance Ltd LLC - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWFNdk9FMHJUam1mWXhtbzN4VEphVEg2dHAweElNU1FFLUpnZnNNMDhDcnZ2VE5nZFJNdUVJMVl1bDJuUTl6ZlV4SjdwUGtrR21Ma09LNTUtb0FqVXUzV2FkMEV0bU9WSVpzU3k3Zi1QejBlSWR3YVMxaXhveUV0Qy1rQTJCWnpxbzhSaDN6dzdVYWNFUndCQnR4cEtYcXVqYXR4d2NDeTlxdm80TG1Vc3VGU0d2TFZqc0tYSS1PcDJ3SjV3VjVzdWZobmtxalF6emZlbmtJSS1JVVNnNmhVdQ?oc=5",
+            "published": "Sat, 11 Jul 2026 15:10:58 GMT"
+        },
+        {
+            "topic": "Federal Reserve interest rate decision",
+            "title": "Where to put cash right now: Should you lock in at 4% — or wait for the next Fed rate decision? - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazQyMy1lQ2VGd0hyYWlXeFZGc2ZtRVVvUEJ2UEVEZV9lZUpSX3NoS2s5ZkN5T00tci1ldWZxQVNTanhMVVVLWkRBMDNrSExIN2ZhUWZfT1ljLTNlNGdKX24xQUpoYUhXR0xNc0NVbjY4elU1SXVHQVNGZWJnWEJUUmZqR1R1b2NlLXlKS2prRlQ0cEZvZ1NYb1V4VXRnR3EtcV9Zc2w2b1B4dzltRDN0Rkdyd0FpcWlSZ2pLMmttQjRtTUZKOXpR?oc=5",
+            "published": "Sat, 11 Jul 2026 14:37:00 GMT"
+        },
+        {
+            "topic": "Federal Reserve interest rate decision",
+            "title": "The Unprecedented Standoff: Why is Powell Refusing to Leave - Kavout | AI",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnF5WVgyNWtnaFFQa2JiYnI5ZDFfbXl1Ylhfa1BGSnFoS01KV1haMnNyd3FBS1oxSlhLSGxacmF6WkY2VzktN3h4dFVZRXRqOG43OThEZ3V4Smp4RzNJcE14MFE1U05VazFTN0RvZTZaOU14aG8xRG10WkpCaGU4MFd1b25OZ3Q3M3ZiQldtNzlKLXQ3Y2NmRA?oc=5",
+            "published": "Sat, 11 Jul 2026 18:01:43 GMT"
+        },
+        {
+            "topic": "Federal Reserve interest rate decision",
+            "title": "Mortgage rates tick slightly higher but remain near 6.5% - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVh2b0JialU2MnhvTGFPLWZUemtxMzVvUnZhQlpCZ2JGY2c4eW01WGpNWkl1UmVSNF9DMnkzOHlFeDlfUENKVVlKbWkyVVo5RUhHNUQ1MjBoY2hRMVVobzhudGhDdjJHNWxXclN2Vk1mWFFiSzRKclNDajZYdGZVVmZXd2VrZw?oc=5",
+            "published": "Sun, 12 Jul 2026 01:34:53 GMT"
+        },
+        {
+            "topic": "US CPI inflation data",
+            "title": "PPI Report April 2026: How Inflation Data Is Moving HIMS, CEG, and PLUG Stock Today - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE5nb3BFRERTbXYwUUVPZFJTb0pVV3NGdlRqWXlmQjJRcVJsdjRiWUdMeXpjQVJTaDdUM3dvT1ZhOWpiWHhwQW00SkJKa2FsbmYtLXJHd3AxQ0ZlT1dzY1hwY3k3UFBFNnR0RlBvS1V4VlgwaURNam1rU05mb3hONklldzJqN0hybmE4QlpBN3UwbTVKNlJyNDY3dVpwQ2MwT3c1UnBTOFZySnZiaXcxbEdzX1BSVklrMy1IclhWQUl6R0NaMzhyRVlzRFYtWjJvMXJn?oc=5",
+            "published": "Sat, 11 Jul 2026 13:54:04 GMT"
+        },
+        {
+            "topic": "US CPI inflation data",
+            "title": "Earnings Season, Walsh, and U.S. Inflation—Where Are the Federal Reserve and Markets Headed? Next Week Brings the First Clues! - Bitget",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90ZDBrQXZBbUt0RWNwQ3R6Q2s5Y2M1US1qY3BhWVVETXZ0cXhJTHc0MnRKeG1zZG9yVzA3MXFYYnlGZU9sQ0JZTWlKV3pJeVJ4X0lJempHeVFzVEVRS1JMaEkwc9IBY0FVX3lxTE90ZDBrQXZBbUt0RWNwQ3R6Q2s5Y2M1US1qY3BhWVVETXZ0cXhJTHc0MnRKeG1zZG9yVzA3MXFYYnlGZU9sQ0JZTWlKV3pJeVJ4X0lJempHeVFzVEVRS1JMaEkwcw?oc=5",
+            "published": "Sun, 12 Jul 2026 02:22:45 GMT"
+        },
+        {
+            "topic": "US CPI inflation data",
+            "title": "Gold Price Forecast: XAU/USD Five Weeks at Support—Breakout Looms - FOREX.com",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDZJUEdLOHR1MTk5ZGQ2QTI2VUY1NGJ3TkY1T3RLeEFhcGN6T3dJRmZ2a1dGRE1YZVhvX1hNRWRiaWZac0dYRmpMd29JR1hkcTJsY2dadG45ZkkwTjFCeDNoOFFUYVp5Q0FrR0VnZ2h5aXZGNTVPbExXVEFXRUNzMi1VSnVMbDBjcGx0aWZpb3lxdnMyM2RLeEwwcVlCWFB1akJ2MDFFcUhDcXFIWUIzamI3TEc0SGpqa3Q4akh0bkRxVkdXcUHSAcYBQVVfeXFMT2g2SVBHSzh0dTE5OWRkNkEyNlVGNTRid05GNU90S3hBYXBjek93SUZmdmtXRkRNWGVYb19YTUVkYmlmWnNHWEZqTHdvSUdYZHEybGNnWnRuOWZJME4xQngzaDhRVGFaeUNBa0dFZ2doeWl2RjU1T2xMV1RBV0VDczItVUp1TGwwY3BsdGlmaW95cXZzMjNkS3hMMHFZQlhQdWpCdjAxRXFIQ3FxSFlCM2piN0xHNEhqamt0OGpIdG5EcVZHV3FB?oc=5",
+            "published": "Sat, 11 Jul 2026 20:18:03 GMT"
+        },
+        {
+            "topic": "US GDP growth report",
+            "title": "PCE Report: Fed's Preferred Inflation Gauge Rises 3.8% In April, Q1 GDP Revised Downward To 1.6% - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGJPNEIyR05jbDVPNllaU01pLUNPeWN0SmM3aEtDZ1paMzBEMUxuS1NxZE9kcklIRldNNmtyaHlmSWgzeWZDM050ZGM1bFNteWVmWE9mR2ZNa05XX2pWakt5bGhlNDFRbWdkSU5CclhlRE9IbG9WdVFYcHYwVkdLdDJGSzc5dnJCUThaSTdPV0xBQlV0WFpGTkhXUXVOeWY5ZlBCalh4cTd0Z1pT?oc=5",
+            "published": "Sat, 11 Jul 2026 18:04:37 GMT"
+        },
+        {
+            "topic": "US GDP growth report",
+            "title": "Hormuz risk, FedEx deal, and freight margins: July 2026 - MarketScale",
+            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONHZHUElPQVI4NFFPMnZqejJfUTh2NDMxanBXOWc5V1hHQVVIRzZSNi12eUVRWmEyUDI4dTBFU0lJQ21vTmZieXZvZEZKZV9aa1I4SFpZMk1MUnd2bDFGTVl1c1NwMGZuMGJXNm02V3kyTVlLaE5nLWhQTnl4VVBBOUw2NWxnSktYdkQ1OFlnTm5nbmR5U1lIT2hpOEV1MFpuaWc3WTVrZGM1R1QyRUNsaTZIelM3WTFla09ZZ1kwaG9kOFgxMWtfUUNubWg2NDNXRFRYdVBPSU1rdWN4elhyaWpBMEF5WmRzeUpFV2hNSFFvanVPSW1jVzRHZnctUkU?oc=5",
+            "published": "Sun, 12 Jul 2026 02:02:00 GMT"
+        },
+        {
+            "topic": "US GDP growth report",
+            "title": "The U.S. stock market is becoming ‘too big to fail’ - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0w4WVRxd0RGY3Nva0ROSXBWemZBT3A0VnNTcWctd291VUw3MVBqeDh0Uk93c25jbTJ1Z3YzLUMxdER3UHpySm1pTHZkQ2haZm80aWVSMkRWOV84MTJlcXh0bVJBbnhUY0JMZHdJS19wTmt4d2RBMkdjRzlHaEh4UktETkdQLXJKU0JzTDNEWmF0ZG80eUE?oc=5",
+            "published": "Sat, 11 Jul 2026 15:47:00 GMT"
+        }
+    ]
+}
